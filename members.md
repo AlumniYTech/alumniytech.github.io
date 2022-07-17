@@ -11,30 +11,30 @@ La asociación de graduados de la Universidad Yachay Tech cuenta con alrededor d
 <div class="row">
 	<div class="column with-caption">
 		<img src="/assets/images/ljcm.png">
-		<p>Leduin José Cuenca Macas</p>
-		<p>Presidente</p>
+		<p class="person-name thick">Leduin José Cuenca Macas</p>
+		<p class="role-name thick">Presidente</p>
     </div>
 	<div class="column with-caption">
 		<img src="/assets/images/ergp.png">
-		<p>Evelyn Raquel García Paredes</p>
-		<p>Vicepresidenta</p>
+		<p class="person-name thick">Evelyn Raquel García Paredes</p>
+		<p class="role-name thick">Vicepresidenta</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="column with-caption">
 	<img src="/assets/images/fpzc.png">
-		<p>Fernando Patricio Zhapa Camacho</p>
-		<p>Secretario Ejecutivo</p>
+		<p class="person-name thick">Fernando Patricio Zhapa Camacho</p>
+		<p class="role-name thick">Secretario Ejecutivo</p>
 	</div>
 	<div class="column with-caption">
 	<img src="/assets/images/mrpr.png">
-		<p>María Rosa Preciado Rivas</p>
-		<p>Tesorera</p>
+		<p class="person-name thick">María Rosa Preciado Rivas</p>
+		<p class="role-name thick">Tesorera</p>
 	</div>
 	<div class="column with-caption">
 	<img src="/assets/images/asrc.png">
-		<p>Anthony Sebastian Ramos Cisneros</p>
-		<p>Coordinador de Comisiones y de la Bolsa de Empleos</p>
+		<p class="person-name thick">Anthony Sebastian Ramos Cisneros</p>
+		<p class="role-name thick">Coordinador de Comisiones y de la Bolsa de Empleos</p>
 	</div>
 </div>
