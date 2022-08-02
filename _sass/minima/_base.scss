@@ -218,8 +218,9 @@ pre {
 }
 
 .social-media-list {
-  li + li {
-    padding-top: 5px;
+    li{
+	display: inline;
+	padding-left: 2px;
   }
 }
 
