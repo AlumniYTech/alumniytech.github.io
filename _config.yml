@@ -48,7 +48,6 @@ plugins:
 
 header_pages:
   - about.md
-  - members.html
   - projects.html
   - contact.md
 
